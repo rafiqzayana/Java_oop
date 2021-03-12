@@ -1,0 +1,6 @@
+fiersabesari_2012_1,2012,fiersabesari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,purcell,wiley,calculus
+faqizha_2019_1,2019,faqizha,gramedia,belajar c++
+faqizha_2019_2,2019,faqizha,gramedia,belajar python
+faqizha_2019_3,2019,faqizha,gramedia,belajar Java
